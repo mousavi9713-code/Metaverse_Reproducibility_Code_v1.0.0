@@ -1,0 +1,7 @@
+__pycache__/
+outputs/
+_test_outputs/
+*.csv
+*.xlsx
+*.log
+*.zip
